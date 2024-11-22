@@ -37,8 +37,7 @@ My name is Sebastian Chalarca. I am a full stack software developer and research
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="30" height="30"/> Bootstrap
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron.js logo" width="30" height="30"/> Electron.js
 #### Tools:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite.js logo" width="30" height="30"/> Vite.js
-alteryx          
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite.js logo" width="30" height="30"/> Vite.js        
 
 ### Backend
 #### Languages
