@@ -48,7 +48,6 @@ My name is Sebastian Chalarca. I am a full stack software developer and research
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="30" height="30"/> Node.js
 #### Databases
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" width="30" height="30"/> MySQL
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo" width="30" height="30"/> MongoDB ( + NeDB)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="neo4j logo" width="30" height="30"/> Neo4j
 
 ### DevOps and Deployment
