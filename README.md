@@ -63,7 +63,7 @@ My name is Sebastian Chalarca. I am a full stack software developer and research
 ### Portfolio links
 - Portfolio website: https://sebastianchalarcaportfolio.vercel.app/
 - LinkedIn page: http://linkedin.com/in/sebastian-chalarca-603939201/
-- Art gallery portfolio: https://art-gallery-portfolio.vercel.app/
+- Art gallery portfolio:[ https://art-gallery-portfolio.vercel.app/](https://art-gallery-app-3fddc.web.app/)
 
 ## Attributions
 - Used Devicons for all the tech stack icons. [Devicon](https://devicon.dev/)
