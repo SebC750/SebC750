@@ -56,6 +56,7 @@ My name is Sebastian Chalarca. I am a full stack software developer and research
 #### Hosting
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel logo" width="30" height="30"/> Vercel
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google cloud logo" width="30" height="30"/> Google Cloud Platform (Firebase)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazon web services logo" width="30" height="30"/> Amazon Web Services
 #### Tools
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git logo" width="30" height="30"/> Git
 
