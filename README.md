@@ -31,9 +31,11 @@ My name is Sebastian Chalarca. I am a full stack software developer and research
 #### Languages
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html logo" width="30" height="30"/> HTML
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" width="30" height="30"/> CSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="css3 logo" width="30" height="30"/> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" width="30" height="30"/> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript logo" width="30" height="30"/> TypeScript
 #### Frameworks/Libraries
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react.js logo" width="30" height="30"/> React.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="css3 logo" width="30" height="30"/> TailwindCSS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="30" height="30"/> Bootstrap
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron.js logo" width="30" height="30"/> Electron.js
 #### Tools:
