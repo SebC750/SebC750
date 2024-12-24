@@ -18,10 +18,10 @@ My name is Sebastian Chalarca. I am a full stack software developer and research
 ### Status report: 
 
 - 💻 Working on personal and research projects.
-- 📖 Currently learning typescript, tailwindcss and firebase hosting.
+- 🐧 Changed from Windows to Ubuntu. Loving it so far!
 - 👯 I’m looking to work on web/desktop applications and software development teams.
 - 😄 Pronouns: He/Him/His
-- 🐧 Favorite animal: Penguin
+- 🐧 Favorite animal: The linux mascot!
 - 🍔 Favorite food: Burgers (Especially patty melts!)
 - 🫖 Favorite drink: Green tea (Great for debugging stubborn errors!)
 
