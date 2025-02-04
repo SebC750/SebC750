@@ -1,4 +1,8 @@
-# Sebastian Chalarca 🧑🏻‍💻
+
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+
+# Sebastian Chalarca
+</div>
 
 ## Table of Contents
 1. Introduction
@@ -10,12 +14,10 @@
    - [DevOps and Deployment](#devops-and-deployment)
 3. Portfolio Links
    - [Portfolio Links](#portfolio-links)
-   
 
 ## Introduction
-My name is Sebastian Chalarca. I am a full stack software developer and research assistant working on personal and research team projects. I love to code and draw cartoons because they both allow me to express my creative side in different ways. I am also interested in studying subjects such as NLP, LLMs, Generative AI as well as software development. 
-
-### Status report: 
+My name is Sebastian Chalarca. I am a full stack software developer and research assistant working on personal and research team projects. Beyond general software development, I specialize in AI integration for enhancing syst
+### Fun facts
 
 - 💻 Working on personal and research projects.
 - 🐧 Changed from Windows to Ubuntu. Loving it so far!
@@ -27,40 +29,89 @@ My name is Sebastian Chalarca. I am a full stack software developer and research
 
 ## Tech stack
 
-### Frontend
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html logo" width="30" height="30"/> HTML
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" width="30" height="30"/> CSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" width="30" height="30"/> JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript logo" width="30" height="30"/> TypeScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react.js logo" width="30" height="30"/> React.js
-### Web Frameworks
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="css3 logo" width="30" height="30"/> TailwindCSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="30" height="30"/> Bootstrap
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron.js logo" width="30" height="30"/> Electron.js
-### Backend
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" width="30" height="30"/> Java
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width="30" height="30"/> Python
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" width="30" height="30"/> PHP
+<div style="display: grid; grid-template-columns: auto auto; column-gap: 10px;">
+    <div style="padding: 20px; border-radius: 10px; ">
+
+   ### Web Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react.js logo" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron.js logo" width="70" height="70"/> 
+    </div>
+    <div style="padding: 20px; border-radius: 10px; ">
+
+
+### Programming languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript logo" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java logo" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python logo" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" width="70" height="70"/> 
+    </div>
+    <div style="padding: 20px; border-radius: 10px; ">
+
+### Backend Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express logo" width="70" height="70"/>
+    </div>
+    <div style="padding: 20px; border-radius: 10px; ">
+
+### UI Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="css3 logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap logo" width="70" height="70"/>
+    </div>
+    <div style="padding: 20px; border-radius: 10px; ">
+
 ### Databases
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" width="30" height="30"/> MySQL
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="neo4j logo" width="30" height="30"/> Neo4j
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j logo" width="70" height="70"/>
+    </div>
+   <div style="padding: 20px; border-radius: 10px; ">
+
 ### DevOps and Deployment
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo" width="30" height="30"/> Docker
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel logo" width="30" height="30"/> Vercel
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google cloud logo" width="30" height="30"/> Google Cloud Platform 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazon web services logo" width="30" height="30"/> Amazon Web Services
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" alt="vercel logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="google cloud logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon web services logo" width="70" height="70"/> 
+    </div>
+    <div style="padding: 20px; border-radius: 10px; ">
+
 ### Development Tools
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git logo" width="30" height="30"/> Git
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma logo" width="30" height="30"/> Figma
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman logo" width="30" height="30"/> Postman
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma logo" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman logo" width="70" height="70"/>
+    </div>
+    <div style="padding: 20px; border-radius: 10px; ">
+
 ### Testing
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest logo" width="30" height="30"/> Jest
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest logo" width="70" height="70"/> 
+    </div>
+</div>
+
+
 
 ## Links
 ### Portfolio links
-- Portfolio website: https://sebastianchalarcaportfolio.vercel.app/
-- LinkedIn page: https://linkedin.com/in/sebastian-chalarca-603939201/
-- Art gallery portfolio: https://art-gallery-app-3fddc.web.app/
+<ul>
+  <li>
+<a target="_blank" href="https://art-gallery-app-3fddc.web.app" />
+Art gallery
+</a>
+  </li>
+  <li>
+<a target="_blank" href="https://sebastianchalarcaportfolio.vercel.app/">
+Portfolio website
+</a>
+  </li>
+  <li>
+<a target="_blank" href="https://linkedin.com/in/sebastian-chalarca-603939201/">
+LinkedIn
+</a>  
+  </li>
+</ul>
+
+</div>   
 
 ## Attributions
 - Used Devicons for all the tech stack icons. [Devicon](https://devicon.dev/)
