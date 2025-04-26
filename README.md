@@ -1,12 +1,8 @@
-
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-
 # Sebastian Chalarca
-<img src="profile_pic.png" alt="my personal profile picture" height="200px" width="200px">
-</div>
+
 
 ## Introduction
-My name is Sebastian Chalarca. I am a full stack software developer with an interest in research for integrating AI technologies such as Generative AI, NLP and Machine learning to enhance current methodologies by creating intelligent, context-aware systems.
+My name is Sebastian Chalarca. I am a full stack software developer with an interest in research for integrating AI technologies such as Generative AI, NLP and Machine learning to enhance current methodologies by creating intelligent, context-aware systems. I also like to develop general full-stack web applications of many types such as E-Commerce, Social Media, Forums etc.
 
 
 ## Tech stack
@@ -22,6 +18,7 @@ My name is Sebastian Chalarca. I am a full stack software developer with an inte
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" width="70" height="70"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width="70" height="70"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="express logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="css3 logo" width="70" height="70"/>
@@ -32,7 +29,6 @@ My name is Sebastian Chalarca. I am a full stack software developer with an inte
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="google cloud logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon web services logo" width="70" height="70"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman logo" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest logo" width="70" height="70"/> 
